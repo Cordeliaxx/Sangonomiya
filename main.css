@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+	padding:0;
+	margin:0;
+}
+.noidung span
+{
+	color:#068CFD
+		
+}
+
+.noidung
+{
+	padding-top:100px;
+	padding-bottom: 170px;
+	font-family: font1;
+}
+.hinhanh 
+{
+	padding-top:100px;
+	padding-bottom: 170px;
+}
+.hinhanh img 
+{
+	height:340px;
+}
+.noidung2
+{
+	padding:150px 150px;
+	font-family: font1;
+}
+.nhom1 i,h3,p
+{
+	padding: 5px 0px;
+}
+.nhom1 i
+{
+	color:#0B83FF
+}
+.skill img
+{
+	height:100px;
+	padding-left: 110px;
+}
+.skill
+{
+	padding-top: 100px;
+	padding-bottom:100px;
+}
+.noidung2 img 
+{
+	height:100px;
+	padding-left:100px;
+}
+.ai
+{
+	font-family: font1;
+	padding: 150px 150px;
+}
+.kokomiinfo
+{
+	font-family: font1;
+}
+.slide
+{
+	padding:100px;
+	
+}
+.ai span
+{
+	color:#0B6AFD
+}
+@font-face
+{
+	font-family: font1;
+	src:url("Raleway-VariableFont_wght.ttf");
+}
+.texting
+{
+	padding:300px;
+	font-family: font1;
+	background-image: url("background.png");
+}
+.anh
+{
+	background-image: url("anhnen1.png");
+}
+.slide h1
+{
+	font-family: font1;
+	padding-left:100px;
+}
+.banner1 img
+{
+	height:300px;
+}
+.banner1
+{
+	padding-top:200px;
+}
+.begin 
+{
+	font-family: font1;
+}
+.begin span 
+{
+	color:#007EF4
+}
+.middle h1
+{
+	padding-left: 600px;
+	padding-top: 60px;
+	font-family: font1;
+}
+.middle span
+{
+	color:#2082FF;
+}
+.bannermini
+{
+	padding:center;
+}
+.table
+{
+	font-family: font1;
+	padding-top: 50px;
+	padding-bottom:100px;
+}
+.end 
+{
+	font-family: font1;
+	padding-top: 50px;
+	padding-bottom:100px;
+	
+}
+footer{
+	margin-top: 10px;
+	background-color:#4B9BFF;
+	text-align: center;
+	color: antiquewhite;
+	padding: 40px;
+	font-size: 14px;
+}
+.card
+{
+	display:inline;
+}
+.card img
+{
+	height:300px;
+}
+.card
+{
+	padding-top: 50px;
+	padding-bottom:50px;
+	padding-right:10px;
+	padding-left:10px;
+}
